@@ -1,0 +1,40 @@
+{
+  "name": "whatsappi",
+  "version": "1.0.0",
+  "description": "Standalone WhatsApp chat application with socket authentication",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-label": "^2.1.8",
+    "@radix-ui/react-scroll-area": "^1.2.10",
+    "@radix-ui/react-select": "^2.2.6",
+    "@radix-ui/react-slot": "^1.2.4",
+    "@radix-ui/react-tabs": "^1.1.13",
+    "@radix-ui/react-tooltip": "^1.2.8",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "0.575.0",
+    "next-themes": "^0.4.6",
+    "pusher-js": "^8.4.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "sonner": "2.0.7",
+    "tailwind-merge": "3.5.0",
+    "vite-plugin-mkcert": "2.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^4.3.0",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.4.0"
+  }
+}
